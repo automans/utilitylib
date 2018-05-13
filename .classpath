@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<accessrules>
+			<accessrule kind="accessible" pattern="**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/axis-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/bcprov-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/commons-net-3.5.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/ezmorph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/javax.xml.rpc-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="E:/autoMan/UtilityLib/lib/jedis-2.7.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
